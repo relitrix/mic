@@ -11,7 +11,7 @@
 </p>
 
 ---
-Tool for checking .jar checksums with Modrinth API.
+A tool for checking .jar(s) integrity with Modrinth API.
 
 ## Run locally
 ```bash
